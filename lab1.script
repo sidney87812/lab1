@@ -1,0 +1,10 @@
+Script started on 2017年03月17日 (週五) 16時13分00秒
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m whoami; pwd
+pd2vm
+/home/pd2vm
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m gi config[C[1@t[C[C[C[C[C[C[C[C[1P config[1P configi configt config[C[C[C[C[C[C[C -l
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m git clone https://github.com/sidney87812/lab1.git
+fatal: destination path 'lab1' already exists and is not an empty directory.
+[01;32mpd2vm@pd2vm-VirtualBox[01;34m ~ $[00m exit
+
+Script done on 2017年03月17日 (週五) 16時15分17秒
